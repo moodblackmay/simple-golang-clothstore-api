@@ -1,1 +1,1 @@
-<h1>Simple project to test golang skills</h1>
+<h1>Simple project for test golang skills</h1>
